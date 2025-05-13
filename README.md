@@ -3,12 +3,6 @@
 Welcome to **CP-Solutions**, a curated collection of my personal solutions to competitive programming problems from platforms like **Codeforces**, **AtCoder**, **Vjudge**, and more. This repository reflects my journey of learning and problem-solving in the world of algorithmic challenges.
 
 ---
-![GitHub repo size](https://img.shields.io/github/repo-size/Redoy0/CP-Solutions)
-![GitHub last commit](https://img.shields.io/github/last-commit/Redoy0/CP-Solutions)
-![GitHub stars](https://img.shields.io/github/stars/Redoy0/CP-Solutions?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Redoy0/CP-Solutions?style=social)
-
----
 
 ### 📊 GitHub Stats
 
