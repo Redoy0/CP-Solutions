@@ -20,7 +20,7 @@ Welcome to **CP-Solutions**, a curated collection of my personal solutions to co
 - [Codeforces](https://codeforces.com/)
 - [AtCoder](https://atcoder.jp/)
 - [Vjudge](https://vjudge.net/)
-- repo: https://github.com/Redoy0/LeetCode.git
+- LeetCode repo: https://github.com/Redoy0/LeetCode.git
 
 
 ---
